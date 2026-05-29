@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+bcrypt
+google-genai
+requests
+altair
+scikit-learn
